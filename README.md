@@ -5,3 +5,7 @@ nashik
 hyderabad
 banglore
 kolkata
+satara
+aurangabad
+kolhapur
+solapur
